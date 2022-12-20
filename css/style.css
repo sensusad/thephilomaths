@@ -564,3 +564,7 @@ header.sticky{
 		width: 310px;
 	}
 }
+.center {
+  border: 5px solid;
+  text-align: center;
+}
