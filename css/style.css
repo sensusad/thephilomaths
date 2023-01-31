@@ -93,7 +93,6 @@ section{
 	padding: 100px 18%;
 }
 .home{
-	min-height: 100vh;
 	height: 100%;
 	width: 100%;
 	background: url(../img/background.jpg);
@@ -103,7 +102,6 @@ section{
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
 	align-items: center;
-	grid-gap: 4rem;
 }
 .home-text h1{
 	margin: 10px 0px 25px;
